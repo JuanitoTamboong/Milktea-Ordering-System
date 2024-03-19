@@ -11,7 +11,7 @@ the user or Customer need to enter their name
 2. select prize and also the size
 3. In the option you can prefer dine or take out
 4. Then enter the order button if you're done selecting
-5. 
+
 # Calculate
 calculate the exchange of the customer to avoid manual computation
 ![Calclulate](https://github.com/JuanitoTamboong/Milktea-Ordering-System/assets/93064994/194c4622-b1a7-4050-94d1-7e816ef48175)
