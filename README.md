@@ -9,7 +9,7 @@ the user or Customer need to enter their name
 # Step to Order 
 1. select the milktea that you want
 2. select prize and also the size
-3. In the option you can prefer dine or take out
+3. In the option you can prefer dine in or take out
 4. Then enter the order button if you're done selecting
 
 # Calculate
