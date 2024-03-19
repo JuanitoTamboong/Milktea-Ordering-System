@@ -7,10 +7,12 @@ the user or Customer need to enter their name
 # MENU
 ![Menu](https://github.com/JuanitoTamboong/Milktea-Ordering-System/assets/93064994/a8c49e27-8a8e-4db6-8ce3-82f97d921345)
 # Step to Order 
-1. select the milktea that you want
-2. select prize and also the size
-3. In the option you can prefer dine in or take out
-4. Then enter the order button if you're done selecting
+
+1. Select the milktea that you want
+2. Then the quantity for how many Milktea that you want
+3. Select prize and also the size
+4. In the option you can prefer dine in or take out
+5. Then enter the order button if you're done selecting
 
 # Calculate
 Calculate the exchange of the customer to avoid manual computation
