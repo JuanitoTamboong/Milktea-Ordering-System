@@ -6,7 +6,7 @@ the user or Customer need to enter their name
 ![Customer Name](https://github.com/JuanitoTamboong/Milktea-Ordering-System/assets/93064994/1ed04435-4ab8-4cb8-b107-d26ab8bbb01b)
 # MENU
 ![Menu](https://github.com/JuanitoTamboong/Milktea-Ordering-System/assets/93064994/a8c49e27-8a8e-4db6-8ce3-82f97d921345)
-# Step to Order 
+# How to Order 
 
 1. Select the milktea that you want
 2. Then the quantity for how many Milktea that you want
