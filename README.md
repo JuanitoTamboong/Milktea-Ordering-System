@@ -1,5 +1,5 @@
 # Milktea-Ordering-System
-It's an Ordering System with calculator for the total of exchange
+ Ordering System with calculator for the total of exchange 
 # Customers Name
 The user or customer enter their name
 
@@ -13,6 +13,8 @@ The user or customer enter their name
 3. Select the prize and also the size
 4. In the option you can prefer dine in or take out
 5. Then enter the order button if you're done selecting
+# Clear Button 
+A clear button use for the display clear
 
 # Calculate
 Calculate the exchange of the customer to avoid manual computation
