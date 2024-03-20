@@ -1,7 +1,7 @@
 # Milktea-Ordering-System
  Ordering System with calculator for the total of exchange 
 # Customers Name
-The user or customer enter their name
+The  customer enter their name
 
 ![Customer Name](https://github.com/JuanitoTamboong/Milktea-Ordering-System/assets/93064994/1ed04435-4ab8-4cb8-b107-d26ab8bbb01b)
 # MENU
@@ -14,7 +14,7 @@ The user or customer enter their name
 4. In the option you can prefer dine in or take out
 5. Then enter the order button if you're done selecting
 # Clear Button 
-A clear button use for the display clear
+A clear button use for if the user want to displayed clear
 
 # Calculate
 Calculate the exchange of the customer to avoid manual computation
